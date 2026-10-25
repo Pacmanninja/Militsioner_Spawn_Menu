@@ -1,0 +1,152 @@
+Name,Path
+Watering Can,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/BP_WateringCan.BP_WateringCan_C
+Champagne,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Alcohol_Champagne.Alcohol_Champagne_C
+Book,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Book.Book_C
+Boss Shoes,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/BossShoes.BossShoes_C
+Bottle,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Bottle.Bottle_C
+Firefly,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/BP_Boid_Firefly.BP_Boid_Firefly_C
+Car Battery,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/BP_CarBattery.BP_CarBattery_C
+Plastic Bottle,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/BP_PlasticBottle.BP_PlasticBottle_C
+Cat,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/BPA_Cat.BPA_Cat_C
+Brick A,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/BrickA.BrickA_C
+Depressed Candy,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Candy_Depressed.Candy_Depressed_C
+Energy Candy,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Candy_Energy.Candy_Energy_C
+Happy Candy,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Candy_Happy.Candy_Happy_C
+Panic Candy,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Candy_Panic.Candy_Panic_C
+Relaxed Candy,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Candy_Relaxed.Candy_Relaxed_C
+Car Stereo,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/CarStereo.CarStereo_C
+Child VHS Tape A,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Cassete_VHS_Child_A.Cassete_VHS_Child_A_C
+Child VHS Tape - Lake,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Cassete_VHS_Child_Lake.Cassete_VHS_Child_Lake_C
+Child VHS Tape - Night,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Cassete_VHS_Child_Night.Cassete_VHS_Child_Night_C
+Child VHS Tape - River,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Cassete_VHS_Child_River.Cassete_VHS_Child_River_C
+Fishers VHS Tape - Part 1,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Cassete_VHS_Fishers_p1.Cassete_VHS_Fishers_p1_C
+Roofers VHS Tape - Part 1,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Cassete_VHS_Roofers_p1.Cassete_VHS_Roofers_p1_C
+Samurai VHS Tape,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Cassete_VHS_Samurai.Cassete_VHS_Samurai_C
+VHS Tape,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Cassete_VHS.Cassete_VHS_C
+Cigarettes,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Cigarettes.Cigarettes_C
+Devil Contract,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/DevilContract.DevilContract_C
+Coffee Cup,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Drink_Coffee_Cup.Drink_Coffee_Cup_C
+Coffee Pack,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Drink_Coffee_Pack.Drink_Coffee_Pack_C
+Mineral Water,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Drink_MineralWater.Drink_MineralWater_C
+Soda,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Drink_Soda.Drink_Soda_C
+Fake Ticket,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/FakeTicket.FakeTicket_C
+Golden Hand Figure,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Figure_Hand_Golden.Figure_Hand_Golden_C
+Flower Plant ,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Flower_B_Plant.Flower_B_Plant_C
+Blue Flower,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Flower_Blue.Flower_Blue_C
+White Flower,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Flower_White.Flower_White_C
+Bread,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Food_Baked_Bread.Food_Baked_Bread_C
+Croissant,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Food_Baked_Croissant.Food_Baked_Croissant_C
+Donut A,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Food_Baked_DonutA.Food_Baked_DonutA_C
+Donut B,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Food_Baked_DonutB.Food_Baked_DonutB_C
+Half-Eaten Dessert,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Food_Baked_HalfEatenDessert.Food_Baked_HalfEatenDessert_C
+BBQ,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Food_BBQ.Food_BBQ_C
+Apple - Bitten,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Food_Fruit_Apple_Bitten.Food_Fruit_Apple_Bitten_C
+Apple - Whole,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Food_Fruit_Apple.Food_Fruit_Apple_C
+Banana,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Food_Fruit_Banana.Food_Fruit_Banana_C
+Orange,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Food_Fruit_Orange.Food_Fruit_Orange_C
+Football,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Football.Football_C
+Handcuffs,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Handcuffs.Handcuffs_C
+Jar,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Jar_A.Jar_A_C
+Kettle,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Kettle.Kettle_C
+Keyboard,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Keyboard.Keyboard_C
+Lockpick,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Lockpick.Lockpick_C
+Lover's Phone,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/LoversPhone.LoversPhone_C
+Town Map - Canyon Unfolded,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/MapTown_Canyon_Unfolded.MapTown_Canyon_Unfolded_C
+Town Map B,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/MapTown.MapTown_C
+Mirror,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Mirror.Mirror_C
+Motherboard,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Motherboard.Motherboard_C
+Mouse,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Mouse.Mouse_C
+Padlock,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Padlock.Padlock_C
+Perfume A,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Perfume_A.Perfume_A_C
+Perfume B,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Perfume_B.Perfume_B_C
+Police Badge,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/PoliceBadge.PoliceBadge_C
+Secret Case Files,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/SecretCaseFiles.SecretCaseFiles_C
+Shoes,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Shoes.Shoes_C
+Ticket,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Ticket.Ticket_C
+Unpacked Goods,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/UnpackedGoods.UnpackedGoods_C
+Golden Vase,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Vase_Golden_A.Vase_Golden_A_C
+Basic Vinyl Record,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Vinyl_Basic_A.Vinyl_Basic_A_C
+Epic Vinyl Record,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Vinyl_Epic_A.Vinyl_Epic_A_C
+Rare Vinyl Record,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Vinyl_Rare_A.Vinyl_Rare_A_C
+Watch,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Watch.Watch_C
+Makar Weapon,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Weapon_Makar.Weapon_Makar_C
+White Key,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/White_Key.White_Key_C
+Worker Badge,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/WorkerBadge.WorkerBadge_C
+Your Case Files,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/YourCaseFiles.YourCaseFiles_C
+Your Passport,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/YourPassport.YourPassport_C
+Blood Red Suit,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Customise/Suit_BloodRed.Suit_BloodRed_C
+Jacket,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Customise/Suit_Jacket.Suit_Jacket_C
+Black Jacket,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Customise/Suit_JacketBlack.Suit_JacketBlack_C
+Military Blue Suit,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Customise/Suit_MilitaryBlue.Suit_MilitaryBlue_C
+Military Olive Suit,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Customise/Suit_MilitaryOlive.Suit_MilitaryOlive_C
+Night Officer Suit,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Customise/Suit_NightOfficer.Suit_NightOfficer_C
+Office Blue Suit,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Customise/Suit_OfficeBlue.Suit_OfficeBlue_C
+Office Striped Suit,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Customise/Suit_OfficeStripes.Suit_OfficeStripes_C
+Royal Black Suit,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Customise/Suit_RoyalBlack.Suit_RoyalBlack_C
+Sonatine Red Suit,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Customise/Suit_SonatineRed.Suit_SonatineRed_C
+Backpack,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Equipment/Backpack.Backpack_C
+Standard Fishing Rod,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Equipment/FishingRod_Standard.FishingRod_Standard_C
+Flashlight,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Equipment/Flashlight.Flashlight_C
+Second Chance,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Equipment/SecondChance.SecondChance_C
+Medium Fish,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Fishes/Fish_Med.Fish_Med_C
+Big Fish,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Fishes/Fish_Big.Fish_Big_C
+Red Carp,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Fishes/Fish_RedCarp.Fish_RedCarp_C
+Small Fish,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Fishes/Fish_Small.Fish_Small_C
+Master Key,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Keys/_BPA_Key_Master._BPA_Key_Master_C
+House H Third Floor Key,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Keys/BP_Key_3rdFloorHouseH.BP_Key_3rdFloorHouseH_C
+Bank Key,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Keys/BP_Key_BankKey.BP_Key_BankKey_C
+Boss House Key,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Keys/BP_Key_BossHouse.BP_Key_BossHouse_C
+Cashier Key,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Keys/BP_Key_CasherKey.BP_Key_CasherKey_C
+House Square - Chest Key,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Keys/BP_Key_ChestHouseSquareA.BP_Key_ChestHouseSquareA_C
+Funicular Back Door Key - Replica,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Keys/BP_Key_FunicularBackDoor_Replica.BP_Key_FunicularBackDoor_Replica_C
+Funicular Back Door Key - Original,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Keys/BP_Key_FunicularBackDoor.BP_Key_FunicularBackDoor_C
+Car Mechanic Key - PC01,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Keys/BP_Key_PC01_CarMechanic.BP_Key_PC01_CarMechanic_C
+Cook Key - PC02,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Keys/BP_Key_PC02_Cook.BP_Key_PC02_Cook_C
+Hermit Key - PC03,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Keys/BP_Key_PC03_Hermit.BP_Key_PC03_Hermit_C
+Musician Key - PC04,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Keys/BP_Key_PC04_Musician.BP_Key_PC04_Musician_C
+Writer Key - PC05,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Keys/BP_Key_PC05_Writer.BP_Key_PC05_Writer_C
+Painter Key - PC06,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Keys/BP_Key_PC06_Painter.BP_Key_PC06_Painter_C
+Player Apartment Key,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Keys/BP_Key_PlayerApartment.BP_Key_PlayerApartment_C
+Sewers Control Room Key,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Keys/BP_Key_SewersControlRoom.BP_Key_SewersControlRoom_C
+Alarm Key,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Keys/Key_AlarmKey.Key_AlarmKey_C
+B1 Key,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Keys/Key_B1.Key_B1_C
+C1 Key,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Keys/Key_C1.Key_C1_C
+C2 Ladder Power Supply Key,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Keys/Key_C2_Ladder_PowerSupply.Key_C2_Ladder_PowerSupply_C
+Dispatch Tower Key,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Keys/Key_DispatchTower.Key_DispatchTower_C
+Funicular Secretary Office Key,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Keys/Key_FunicularSecretaryOffice.Key_FunicularSecretaryOffice_C
+Cheap Lockpick,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Keys/Key_Lockpick_Cheap.Key_Lockpick_Cheap_C
+Pawn Shop Garage Locker Key,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Keys/Key_PawnShopGarage_Locker.Key_PawnShopGarage_Locker_C
+Rat Barn Key,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Keys/Key_RatBarn.Key_RatBarn_C
+Room 81 Key,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Keys/Key_Room81.Key_Room81_C
+Smoker House Key,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Keys/Key_SmokerHouse.Key_SmokerHouse_C
+Smoker Roof Key,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Keys/Key_SmokerRoof.Key_SmokerRoof_C
+Station Key A - PS,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Keys/Key_Station_PS.Key_Station_PS_C
+Station Key B,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Keys/Key_Station.Key_Station_C
+Station Electricity Key,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Keys/Key_StationElectrisity.Key_StationElectrisity_C
+Stealth Yard Key,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Keys/Key_StealthYard.Key_StealthYard_C
+Train Station Key,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Keys/Key_TrainStation.Key_TrainStation_C
+Tutorial End Key,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Keys/Key_Tutorial_End.Key_Tutorial_End_C
+Tutorial Key,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Keys/Key_Tutorial.Key_Tutorial_C
+UD A01 Key,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Keys/Key_UD_A01.Key_UD_A01_C
+UD A02 Key,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Keys/Key_UD_A02.Key_UD_A02_C
+UD A03 Key,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Keys/Key_UD_A03.Key_UD_A03_C
+UD A04 Key,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Keys/Key_UD_A04.Key_UD_A04_C
+UD A05 Key,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Keys/Key_UD_A05.Key_UD_A05_C
+Large Money Pile,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Money/Big_Pile_Money.Big_Pile_Money_C
+Large Coin,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Money/BP_CoinLarge.BP_CoinLarge_C
+Small Coin,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Money/BP_CoinSmall.BP_CoinSmall_C
+Coin Stack A,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Money/BP_CoinStackA.BP_CoinStackA_C
+Coin Stack B,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Money/BP_CoinStackB.BP_CoinStackB_C
+Coin Wallet,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Money/BP_CoinWallet.BP_CoinWallet_C
+Medium Money Pile,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Money/Middle_Pile_Money.Middle_Pile_Money_C
+Hydrangea Seed,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Seeds/BP_SeedHydrangea.BP_SeedHydrangea_C
+Radio A - Abstract Chill,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Radio/Radio_Music_Abstract_Chill.Radio_Music_Abstract_Chill_C
+Radio B - Abstract,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Radio/Radio_Music_Abstract.Radio_Music_Abstract_C
+Radio C - Chill,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Radio/Radio_Music_Chill_A.Radio_Music_Chill_A_C
+Radio D - Club Dance,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Radio/Radio_Music_ClubDance.Radio_Music_ClubDance_C
+Radio E - Hip-Hop,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Radio/Radio_Music_Hiphop.Radio_Music_Hiphop_C
+Radio F - Macabre,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Radio/Radio_Music_Macabre.Radio_Music_Macabre_C
+Radio G - Night Jazz,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Radio/Radio_Music_NightJazz.Radio_Music_NightJazz_C
+Radio H - Piano,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Radio/Radio_Music_Piano_A.Radio_Music_Piano_A_C
+Radio I - Piano Chill,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Radio/Radio_Music_Piano_Chill.Radio_Music_Piano_Chill_C
+Radio J - Default,/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Radio/Radio.Radio_C
