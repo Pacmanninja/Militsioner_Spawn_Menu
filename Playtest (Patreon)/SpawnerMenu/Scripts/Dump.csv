@@ -1,0 +1,97 @@
+Category	Name	Path	Comment
+Money			
+	Big Money Pile 1	/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Big_Pile_Money.Big_Pile_Money_C	
+	Big Money Pile 2	/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Big_Pile_Money.Big_Pile_Money_C	
+	Medium Money Pile	/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Middle_Pile_Money.Middle_Pile_Money_C	
+			
+Media			
+	Book	/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Book.Book_C	
+	Tutorial	/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Bottle_Tutorial_ChildBP.Bottle_Tutorial_ChildBP_C	
+	VHS A	/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Cassete_VHS_Child_A.Cassete_VHS_Child_A_C	
+	VHS Lake	/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Cassete_VHS_Child_Lake.Cassete_VHS_Child_Lake_C	
+	VHS Night	/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Cassete_VHS_Child_Night.Cassete_VHS_Child_Night_C	
+	VHS River	/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Cassete_VHS_Child_River.Cassete_VHS_Child_River_C	
+	VHS Fishers	/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Cassete_VHS_Fishers_p1.Cassete_VHS_Fishers_p1_C	
+	VHS Roofers	/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Cassete_VHS_Roofers_p1.Cassete_VHS_Roofers_p1_C	
+	VHS	/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Cassete_VHS.Cassete_VHS_C	
+	Town Map	/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/MapTown.MapTown_C	
+			
+Important			
+	Your Case Files	/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/YourCaseFiles.YourCaseFiles_C	
+	Ticket	/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Ticket.Ticket_C	
+	Secret Case Files	/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/SecretCaseFiles.SecretCaseFiles_C	
+	Lockpick	/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Lockpick.Lockpick_C	
+	Devil Contract	/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/DevilContract.DevilContract_C	
+	Fake Ticket	/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/FakeTicket.FakeTicket_C	
+			
+Food/Drink			
+	Champagne	/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Alcohol_Champagne.Alcohol_Champagne_C	
+	Cigarettes	/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Cigarettes.Cigarettes_C	
+	Coffe Cup	/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Drink_Coffee_Cup.Drink_Coffee_Cup_C	
+	Coffee Pack	/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Drink_Coffee_Pack.Drink_Coffee_Pack_C	
+	Mineral Water	/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Drink_MineralWater.Drink_MineralWater_C	
+	Soda	/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Drink_Soda.Drink_Soda_C	
+	Baked Bread	/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Food_Baked_Bread.Food_Baked_Bread_C	
+	Donut A	/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Food_Baked_DonutA.Food_Baked_DonutA_C	
+	Donut B	/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Food_Baked_DonutB.Food_Baked_DonutB_C	
+	BBQ	/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Food_BBQ.Food_BBQ_C	
+	Bitten Apple 1	/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Food_Fruit_Apple_Bitten.Food_Fruit_Apple_Bitten_C	
+	Bitten Apple 2	/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Food_Fruit_Apple_Bitten.Food_Fruit_Apple_Bitten_C	
+	Apple	/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Food_Fruit_Apple.Food_Fruit_Apple_C	
+	Banana	/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Food_Fruit_Banana.Food_Fruit_Banana_C	
+	Orange	/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Food_Fruit_Orange.Food_Fruit_Orange_C	
+			
+Key			
+	Key Master	/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/BPA_Key_Master.BPA_Key_Master_C	
+	Alarm Key	/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Key_AlarmKey.Key_AlarmKey_C	
+	Key B1	/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Key_B1.Key_B1_C	
+	Key C1	/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Key_C1.Key_C1_C	
+	Key C2 Ladder Power Supply	/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Key_C2_Ladder_PowerSupply.Key_C2_Ladder_PowerSupply_C	
+	Key Pawn Shop Garage Locker	/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Key_PawnShopGarage_Locker.Key_PawnShopGarage_Locker_C	
+	Key Rat Barn	/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Key_RatBarn.Key_RatBarn_C	
+	Key Room 81	/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Key_Room81.Key_Room81_C	
+	Key Smoker House	/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Key_SmokerHouse.Key_SmokerHouse_C	
+	Key Station PS	/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Key_Station_PS.Key_Station_PS_C	
+	Key Station	/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Key_Station.Key_Station_C	
+	Key Station Electric	/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Key_StationElectrisity.Key_StationElectrisity_C	
+	Key Stealth Yard	/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Key_StealthYard.Key_StealthYard_C	
+	Key Train Station	/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Key_TrainStation.Key_TrainStation_C	
+	Key Tutorial End	/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Key_Tutorial_End.Key_Tutorial_End_C	
+	Key Tutorial	/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Key_Tutorial.Key_Tutorial_C	
+	White Key	/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/White_Key.White_Key_C	
+			
+Junk			
+	Vase	/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Vase.Vase_C	
+	Mechanical Watch	/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Watch_Mechanical.Watch_Mechanical_C	
+	Mirror	/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Mirror.Mirror_C	
+	Motherboard	/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Motherboard.Motherboard_C	
+	Mouse	/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Mouse.Mouse_C	
+	Padlock	/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Padlock.Padlock_C	
+	Radio	/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Radio.Radio_C	
+	Keyboard	/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Keyboard.Keyboard_C	
+	Football	/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Football.Football_C	
+	Handcuffs	/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Handcuffs.Handcuffs_C	
+	Jar	/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Jar_A.Jar_A_C	
+	Flower	/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Flower_A.Flower_A_C	
+	Bottle 1	/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Bottle.Bottle_C	
+	Bottle 2	/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Bottle.Bottle_C	
+	Brick A	/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/BrickA.BrickA_C	
+	Car Stereo	/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/CarStereo.CarStereo_C	
+			
+Gift			
+	Cat	/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/BPA_Cat.BPA_Cat_C	
+	Perfume A	/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Perfume_A.Perfume_A_C	
+	Perfume B	/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Perfume_B.Perfume_B_C	
+			
+Fish			
+	Big Fish 1	/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Fish_Big.Fish_Big_C	
+	Big Fish 2	/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Fish_Big.Fish_Big_C	
+	Medium Fish 1	/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Fish_Med.Fish_Med_C	
+	Medium Fish 2	/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Fish_Med.Fish_Med_C	
+	Small Fish 1	/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Fish_Small.Fish_Small_C	
+	Small Fish 2	/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Fish_Small.Fish_Small_C	
+			
+Dev Items			
+	Fishing Rod	/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/FishingRode_Standart.FishingRode_Standart_C	Soft Locks your game
+	Flashlight	/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Flashlight.Flashlight_C	
+	Wep Makar	/Game/TallProjectChildBP/Interactive_Actors/Items/ItemActors/Weapon_Makar.Weapon_Makar_C	Doesn't Work
